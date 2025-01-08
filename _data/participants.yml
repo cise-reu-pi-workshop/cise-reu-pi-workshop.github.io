@@ -1,0 +1,43 @@
+groups:
+  - title: Organizing committee
+    sort: false
+    columns: false
+    members:
+      - name: Joshua
+        surname: Sunshine
+        email: sunshine@cs.cmu.edu
+        affil: Carnegie Mellon University
+      - name: Ron
+        surname: Artstein
+        affil: Institute for Creative Technologies, University of Southern California
+        email: artstein@ict.usc.edu
+      - name: Reynold
+        surname: Bailey
+        affil: Rochester Institute of Technology
+        email: rjbvcs@rit.edu
+      - name: Rosalia
+        surname: Gomez
+        email: ragomez@tacc.utexas.edu
+        affil: Texas Advanced Computing Center, University of Texas at Austin
+      - name: Feng
+        surname: Li
+        email: fengli@iupui.edu
+        affil: Indiana University–Purdue University Indianapolis
+      - name: Damla
+        surname: Turgut
+        affil: University of Central Florida
+        email: damla.turgut@ucf.edu
+  - title: Local coordinators
+    columns: false
+    members:
+      - name: Samantha
+        surname: Mudrinich
+        email: smudrini@andrew.cmu.edu
+        affil: Carnegie Mellon University
+  - title: NSF program officers
+    sort: true
+    columns: true
+    members:
+      - name: Jill
+        surname: Denner
+        email: jdenner@nsf.gov

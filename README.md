@@ -1,1 +1,1 @@
-# cise-reu-pi-workshop.github.io
+This is the repository for the 2025 CISE REU PI workshop. The site is deployed with GitHub pages and uses a custom GitHub action. See `.github/workflows/jekyll.yml` for details.

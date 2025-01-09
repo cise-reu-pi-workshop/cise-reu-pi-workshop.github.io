@@ -2,13 +2,13 @@ legend:
   title: Legend
   categories:
     - name: Meals
-      color: red
+      color: red-6
     - name: Breaks
-      color: green
+      color: green-6
     - name: Plenary sessions
-      color: blue
+      color: blue-6
     - name: Breakout sessions
-      color: yellow
+      color: yellow-6
 days:
   - name: Monday April 21, 2025
     events:
@@ -18,10 +18,12 @@ days:
     events:
       - time: 8:30am to 9:30am
         title: Breakfast
+        category: Meals
       - time: 9:30am to 10:00am
         title: Opening remarks
-        subtitle: Josh Sunshine and Damla Turgut, Organizing Committee
-                 Jill Denner and Manuel Perez Quiñones, NSF Program Officers
+        subtitle: Josh Sunshine and Damla Turgut, Organizing Committee  
+        Jill Denner and Manuel Perez Quiñones, NSF Program Officers
+        category: Plenary sessions
       - time: 10:00am to 10:45am
         title: Parallel Breakout sessions:
       - time: 10:45am to 11:15am

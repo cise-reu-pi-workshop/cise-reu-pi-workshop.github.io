@@ -13,12 +13,15 @@ days:
   - name: Monday April 21, 2025
     events:
       - time: 7:00pm to 9:00pm
-        title: Welcome dinner and opening remarks
-        category: Meals
+        title: Welcome Dinner, Introduction to Workshop, Icebreaker
   - name: Tuesday April 22, 2025
     events:
-      - time: 8:30am to 8:00pm
+      - time: 8:30am to 9:30am
         title: Breakfast, sessions, lunch, and dinner
+      - time: 9:30am to 10:00am
+        title: Opening remarks
+        subitle: Josh Sunshine and Damla Turgut, Organizing Committee
+                 Jill Denner and Manuel Perez Quiñones, NSF Program Officers
   - name: Wednesday April 23, 2025
     events:
       - time: 8:30am to 3:00pm

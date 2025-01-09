@@ -22,3 +22,5 @@ days:
     events:
       - time: 8:30am to 3:00pm
         title: Breakfast, sessions, lunch, and closing remarks
+      - time: 3:00pm to 4:00pm
+        title: Sam's meeting

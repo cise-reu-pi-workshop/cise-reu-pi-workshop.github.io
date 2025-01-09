@@ -29,7 +29,8 @@ days:
       - time: 11:15am to 11:45am
         title: Break
       - time: 11:45am to 12:30pm
-        title: PI Site Introductions (20 seconds per site)
+        title: PI Site Introductions
+        subtitle: 20 seconds per site
       - time: 12:30pm to 1:30pm
         title: Lunch
       - time: 1:30pm to 2:15pm

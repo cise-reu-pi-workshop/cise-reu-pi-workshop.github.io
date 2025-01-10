@@ -22,12 +22,12 @@ days:
         title: Opening remarks
         subtitle: Josh Sunshine and Damla Turgut, Organizing Committee </br> Jill Denner and Manuel Perez Quiñones, NSF Program Officers
       - time: 10:00am to 10:45am
-        title: Parallel Breakout Sessions&#58;
-        subtitle: Session 1&#58; Student Recruiting and Selection </br> 
-                  Session 2&#58; Building a Positive Environment&#58; cohort-building, social activities, and research lab culture </br>
-                  Session 3&#58; Preparing Students for Research&#58; high-impact first week activities, research orientation, seminar topics </br>
-                  Session 4&#58; Keeping Things Fresh&#58; evolving intellectual focus, changing leadership, and introducing new structure </br>
-                  Session 5&#58; Disseminating Student Research&#58; poster sessions, student research competitions, REU-specific conferences, co-authoring papers with graduate students </br>   
+        title: Parallel breakout sessions&#58;
+        subtitle: Session 1&#58; Student Recruiting and Selection </br></br> 
+                  Session 2&#58; Building a Positive Environment&#58; cohort-building, social activities, and research lab culture </br></br>
+                  Session 3&#58; Preparing Students for Research&#58; high-impact first week activities, research orientation, seminar topics </br></br>
+                  Session 4&#58; Keeping Things Fresh&#58; evolving intellectual focus, changing leadership, and introducing new structure </br></br>
+                  Session 5&#58; Disseminating Student Research&#58; poster sessions, student research competitions, REU-specific conferences, co-authoring papers with graduate students </br></br>   
                   Session 6&#58; Program Support and Sustainability&#58; advocating for resources, fundraising from non-NSF sources, public relations, working with university administration
       - time: 10:45am to 11:15am
         title: Report back from breakout sessions
@@ -35,7 +35,7 @@ days:
         title: Break
       - time: 11:45am to 12:30pm
         title: PI Site Introductions
-        subtitle: 20 seconds per site
+        subtitle: *20 seconds per site*
       - time: 12:30pm to 1:30pm
         title: Lunch
       - time: 1:30pm to 2:15pm
@@ -46,7 +46,7 @@ days:
         title: Break
       - time: 3:30pm to 4:15pm
         title: Parallel Breakout Sessions
-        subtitle: same sessions as 10am, everyone chooses a second topic from the six offered
+        subtitle: *same sessions as 10am, everyone chooses a second topic from the six offered*
       - time: 4:15pm to 5:00pm
         title: Invited speaker
       - time: 6:30pm to 8:30pm
@@ -61,7 +61,7 @@ days:
         title: Break
       - time: 11:00am to 11:45am
         title: Parallel Breakout Sessions
-        subtitle: same sessions as Day 2, everyone chooses a third topic from the six offered
+        subtitle: *same sessions as Day 2, everyone chooses a third topic from the six offered*
       - time: 11:45am to 12:30pm
         title: Meet with your Program Officer in Breakout Sessions
       - time: 12:30pm to 1:45pm

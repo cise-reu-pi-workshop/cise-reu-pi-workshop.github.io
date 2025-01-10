@@ -4,11 +4,11 @@ legend:
     - name: Meals
       color: red-6
     - name: Breaks
-      color: green
+      color: green-6
     - name: Plenary sessions
-      color: blue
+      color: blue-6
     - name: Breakout sessions
-      color: yellow
+      color: yellow-6
 days:
   - name: Monday April 21, 2025
     events:
@@ -19,9 +19,12 @@ days:
     events:
       - time: 8:30am to 9:30am
         title: Breakfast
+        category: Meals
       - time: 9:30am to 10:00am
         title: Opening remarks
-        subtitle: Josh Sunshine and Damla Turgut, Organizing Committee </br> Jill Denner and Manuel Perez Quiñones, NSF Program Officers
+        subtitle: Josh Sunshine and Damla Turgut, Organizing Committee </br> 
+                  Jill Denner and Manuel Perez Quiñones, NSF Program Officers
+        category: Plenary sessions
       - time: 10:00am to 10:45am
         title: Parallel breakout sessions&#58;
         subtitle: Session 1&#58; Student Recruiting and Selection </br></br> 
@@ -30,46 +33,65 @@ days:
                   Session 4&#58; Keeping Things Fresh&#58; evolving intellectual focus, changing leadership, and introducing new structure </br></br>
                   Session 5&#58; Disseminating Student Research&#58; poster sessions, student research competitions, REU-specific conferences, co-authoring papers with graduate students </br></br>   
                   Session 6&#58; Program Support and Sustainability&#58; advocating for resources, fundraising from non-NSF sources, public relations, working with university administration
+        category: Breakout sessions
       - time: 10:45am to 11:15am
         title: Report back from breakout sessions
+        category: Breakout sessions
       - time: 11:15am to 11:45am
         title: Break
+        category: Breaks
       - time: 11:45am to 12:30pm
         title: PI Site Introductions
         subtitle: 20 seconds per site
+        category: Plenary sessions
       - time: 12:30pm to 1:30pm
         title: Lunch
+        category: Meals
       - time: 1:30pm to 2:15pm
         title: Panel 1&#58; Broadening Participation in Computing
+        category: Plenary sessions
       - time: 2:15pm to 3:00pm
         title: Panel 2&#58; Working with Mentors mentor training, mentor management, mentor evaluation
+        category: Plenary sessions
       - time: 3:00pm to 3:30pm
         title: Break
+        category: Breaks
       - time: 3:30pm to 4:15pm
         title: Parallel Breakout Sessions
         subtitle: same sessions as 10am, everyone chooses a second topic from the six offered
+        category: Breakout sessions
       - time: 4:15pm to 5:00pm
         title: Invited speaker
+        category: Plenary sessions
       - time: 6:30pm to 8:30pm
         title: Networking & Best Practices Discussion Dinner
+        category: Meals
   - name: Wednesday April 23, 2025
     events:
       - time: 8:30am to 9:30am
         title: Breakfast
+        category: Meals
       - time: 9:30am to 10:30am
         title: Panel 3&#58; Evaluation, Reporting, Tracking, and Dissemination of Longitudinal REU Outcomes
+        category: Plenary sessions
       - time: 10:30am to 11:00am
         title: Break
+        category: Breaks
       - time: 11:00am to 11:45am
         title: Parallel breakout sessions
         subtitle: same sessions as Day 2, everyone chooses a third topic from the six offered
+        category: Breakout sessions
       - time: 11:45am to 12:30pm
         title: Meet with your Program Officer in breakout sessions
+        category: Breakout sessions
       - time: 12:30pm to 1:45pm
         title: Lunch
+        category: Meals
       - time: 1:45pm to 2:30pm
         title: Panel 4&#58; Writing a Highly Competitive Renewal Proposal
+        category: Plenary sessions
       - time: 2:30pm to 2:45pm
         title: Closing Remarks
+        category: Plenary sessions
     
       

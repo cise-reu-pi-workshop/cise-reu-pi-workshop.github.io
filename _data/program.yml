@@ -21,7 +21,7 @@ days:
       - time: 9:30am to 10:00am
         title: Opening remarks
       - time: 10:00am to 10:45am
-        title: Parallel Breakout sessions:
+        title: Parallel Breakout sessions
       - time: 10:45am to 11:15am
         title: Report back from breakout sessions
       - time: 11:15am to 11:45am

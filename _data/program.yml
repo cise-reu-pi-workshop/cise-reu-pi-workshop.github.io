@@ -32,7 +32,7 @@ days:
       - time: 12:30pm to 1:30pm
         title: Lunch
       - time: 1:30pm to 2:15pm
-        title: Panel 1':' Broadening Participation in Computing
+        title: Panel 1&#58; Broadening Participation in Computing
       - time: 2:15pm to 3:00pm
         title: Panel 2 Working with Mentors mentor training, mentor management, mentor evaluation.
       - time: 3:00pm to 3:30pm

@@ -35,7 +35,7 @@ days:
         title: Break
       - time: 11:45am to 12:30pm
         title: PI Site Introductions
-        subtitle: *20 seconds per site*
+        subtitle: 20 seconds per site
       - time: 12:30pm to 1:30pm
         title: Lunch
       - time: 1:30pm to 2:15pm
@@ -46,7 +46,7 @@ days:
         title: Break
       - time: 3:30pm to 4:15pm
         title: Parallel Breakout Sessions
-        subtitle: *same sessions as 10am, everyone chooses a second topic from the six offered*
+        subtitle: same sessions as 10am, everyone chooses a second topic from the six offered
       - time: 4:15pm to 5:00pm
         title: Invited speaker
       - time: 6:30pm to 8:30pm
@@ -61,7 +61,7 @@ days:
         title: Break
       - time: 11:00am to 11:45am
         title: Parallel Breakout Sessions
-        subtitle: *same sessions as Day 2, everyone chooses a third topic from the six offered*
+        subtitle: same sessions as Day 2, everyone chooses a third topic from the six offered
       - time: 11:45am to 12:30pm
         title: Meet with your Program Officer in Breakout Sessions
       - time: 12:30pm to 1:45pm

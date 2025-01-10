@@ -21,15 +21,15 @@ days:
       - time: 9:30am to 10:00am
         title: Opening remarks
         subtitle: Josh Sunshine and Damla Turgut, Organizing Committee   
-        Jill Denner and Manuel Perez Quiñones, NSF Program Officers
+        subtitle: Jill Denner and Manuel Perez Quiñones, NSF Program Officers
       - time: 10:00am to 10:45am
         title: Parallel Breakout Sessions&#58;
         subtitle: Session 1&#58; Student Recruiting and Selection  
-        Session 2&#58; Building a Positive Environment&#58; cohort-building, social activities, and research lab culture  
-        Session 3&#58; Preparing Students for Research&#58; high-impact first week activities, research orientation, seminar topics   
-        Session 4&#58; Keeping Things Fresh&#58; evolving intellectual focus, changing leadership, and introducing new structure  
-        Session 5&#58; Disseminating Student Research&#58; poster sessions, student research competitions, REU-specific conferences, co-authoring papers with graduate students   
-        Session 6&#58; Program Support and Sustainability&#58; advocating for resources, fundraising from non-NSF sources, public relations, working with university administration
+        subtitle: Session 2&#58; Building a Positive Environment&#58; cohort-building, social activities, and research lab culture  
+        subtitle: Session 3&#58; Preparing Students for Research&#58; high-impact first week activities, research orientation, seminar topics   
+        subtitle: Session 4&#58; Keeping Things Fresh&#58; evolving intellectual focus, changing leadership, and introducing new structure  
+        subtitle: Session 5&#58; Disseminating Student Research&#58; poster sessions, student research competitions, REU-specific conferences, co-authoring papers with graduate students   
+        subtitle: Session 6&#58; Program Support and Sustainability&#58; advocating for resources, fundraising from non-NSF sources, public relations, working with university administration
       - time: 10:45am to 11:15am
         title: Report back from breakout sessions
       - time: 11:15am to 11:45am

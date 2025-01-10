@@ -57,7 +57,7 @@ days:
         title: Break
         category: Breaks
       - time: 3:30pm to 4:15pm
-        title: Parallel Breakout Sessions
+        title: Parallel breakout sessions
         subtitle: same sessions as 10am, everyone chooses a second topic from the six offered
         category: Breakout sessions
       - time: 4:15pm to 5:00pm
@@ -91,7 +91,7 @@ days:
         title: Panel 4&#58; Writing a Highly Competitive Renewal Proposal
         category: Plenary sessions
       - time: 2:30pm to 2:45pm
-        title: Closing Remarks
+        title: Closing remarks
         category: Plenary sessions
     
       

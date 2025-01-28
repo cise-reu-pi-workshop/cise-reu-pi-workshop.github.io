@@ -3,7 +3,7 @@ groups:
     sort: false
     columns: false
     members:
-      - name: [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/)
+      - name: Joshua Sunshine
         affil: Carnegie Mellon University
       - name: Ron
         surname: Artstein

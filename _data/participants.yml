@@ -5,7 +5,7 @@ groups:
     members:
       - name: Joshua
         surname: Sunshine
-        email: sunshine@cs.cmu.edu
+        email: https://www.cs.cmu.edu/~jssunshi/
         affil: Carnegie Mellon University
       - name: Ron
         surname: Artstein
@@ -22,7 +22,7 @@ groups:
       - name: Feng
         surname: Li
         email: fengli@iupui.edu
-        affil: Indiana University–Purdue University Indianapolis
+        affil: Purdue University
       - name: Damla
         surname: Turgut
         affil: University of Central Florida

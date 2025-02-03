@@ -5,15 +5,15 @@ groups:
     members:
       - name: <a href="https://www.cs.cmu.edu/~jssunshi/" target="_blank">Joshua Sunshine</a>
         affil: Carnegie Mellon University
-      - name: <a href="http://ron.artstein.org/">Ron Artstein</a>
+      - name: <a href="http://ron.artstein.org/" target="_blank">Ron Artstein</a>
         affil: Institute for Creative Technologies, University of Southern California
-      - name: <a href="https://www.cs.rit.edu/~rjb/">Reynold Bailey</a>
+      - name: <a href="https://www.cs.rit.edu/~rjb/" target="_blank">Reynold Bailey</a>
         affil: Rochester Institute of Technology
-      - name: <a href="https://tacc.utexas.edu/about/staff-directory/rosalia-gomez/">Rosalia Gomez</a>
+      - name: <a href="https://tacc.utexas.edu/about/staff-directory/rosalia-gomez/" target="_blank">Rosalia Gomez</a>
         affil: Texas Advanced Computing Center, University of Texas at Austin
-      - name: <a href="https://polytechnic.purdue.edu/profile/li2318">Feng Li</a>
+      - name: <a href="https://polytechnic.purdue.edu/profile/li2318" target="_blank">Feng Li</a>
         affil: Purdue University
-      - name: <a href="http://www.cs.ucf.edu/~turgut/">Damla Turgut</a>
+      - name: <a href="http://www.cs.ucf.edu/~turgut/" target="_blank">Damla Turgut</a>
         affil: University of Central Florida
   - title: Local coordinators
     columns: false

@@ -5,26 +5,16 @@ groups:
     members:
       - name: <a href="https://www.cs.cmu.edu/~jssunshi/" target="_blank">Joshua Sunshine</a>
         affil: Carnegie Mellon University
-      - name: Ron
-        surname: Artstein
+      - name: <a href="http://ron.artstein.org/">Ron Artstein</a>
         affil: Institute for Creative Technologies, University of Southern California
-        email: artstein@ict.usc.edu
-      - name: Reynold
-        surname: Bailey
+      - name: <a href="https://www.cs.rit.edu/~rjb/">Reynold Bailey</a>
         affil: Rochester Institute of Technology
-        email: rjbvcs@rit.edu
-      - name: Rosalia
-        surname: Gomez
-        email: ragomez@tacc.utexas.edu
+      - name: <a href="https://tacc.utexas.edu/about/staff-directory/rosalia-gomez/">Rosalia Gomez</a>
         affil: Texas Advanced Computing Center, University of Texas at Austin
-      - name: Feng
-        surname: Li
-        email: fengli@iupui.edu
+      - name: <a href="https://polytechnic.purdue.edu/profile/li2318">Feng Li</a>
         affil: Purdue University
-      - name: Damla
-        surname: Turgut
+      - name: <a href="http://www.cs.ucf.edu/~turgut/">Damla Turgut</a>
         affil: University of Central Florida
-        email: damla.turgut@ucf.edu
   - title: Local coordinators
     columns: false
     members:

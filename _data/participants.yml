@@ -3,9 +3,7 @@ groups:
     sort: false
     columns: false
     members:
-      - name: Joshua
-        surname: Sunshine
-        url: https://www.cs.cmu.edu/~jssunshi/
+      - name: <a href="https://www.cs.cmu.edu/~jssunshi/">Joshua Sunshine</a>
         affil: Carnegie Mellon University
       - name: Ron
         surname: Artstein

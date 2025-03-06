@@ -23,7 +23,6 @@ days:
       - time: 9:30am to 10:00am
         title: Opening remarks
         subtitle: Josh Sunshine and Damla Turgut, Organizing Committee </br> 
-                  Jill Denner, NSF Program Officer
         category: Plenary sessions
       - time: 10:00am to 10:45am
         title: Parallel breakout sessions&#58;
@@ -51,7 +50,7 @@ days:
         title: Panel 1&#58; Broadening Participation in Computing
         category: Plenary sessions
       - time: 2:15pm to 3:00pm
-        title: Panel 2&#58; Working with Mentors&#58; mentor training, mentor management, mentor evaluation
+        title: Panel 2&#58; Writing a Highly Competitive Renewal Proposal
         category: Plenary sessions
       - time: 3:00pm to 3:30pm
         title: Break
@@ -88,7 +87,7 @@ days:
         title: Lunch
         category: Meals
       - time: 1:45pm to 2:30pm
-        title: Panel 4&#58; Writing a Highly Competitive Renewal Proposal
+        title: Panel 4&#58; Working with Mentors&#58; mentor training, mentor management, mentor evaluation
         category: Plenary sessions
       - time: 2:30pm to 2:45pm
         title: Closing remarks

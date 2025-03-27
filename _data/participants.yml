@@ -22,10 +22,4 @@ groups:
         surname: Mudrinich
         email: smudrini@andrew.cmu.edu
         affil: Carnegie Mellon University
-  - title: NSF program officers
-    sort: true
-    columns: true
-    members:
-      - name: Jill
-        surname: Denner
-        email: jdenner@nsf.gov
+  

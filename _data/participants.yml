@@ -22,5 +22,53 @@ groups:
         surname: Mudrinich
         email: smudrini@andrew.cmu.edu
         affil: Carnegie Mellon University
-        affil: REUSE program
+  - title: Participants
+    columns: false
+    members:
+      - name: Mohammad Rahman Ashiqur
+        affil: Artificial Intelligence-Driven Resilient Health and Biological Systems (AI-ReHaB), Florida State University
+      - name: Leilani Battle
+        affil: The DUB REU Program for Human-Centered Computing Research, University of Washington
+      - name: André Bauer
+        affil: Collaborative Research: BigDataX: From theory to practice in Big Data computing at eXtreme scales, Illinois Institute of Technology
+      - name: Jean-François Biasse
+        affil: Cryptography and Coding Theory at the University of South Florida, University of South Florida
+      - name: Kelsey Briggs
+        affil: Applied Artificial Intelligence for Advanced Applications, Worcester Polytechnic Institute
+      - name: Prasad Calyam
+        affil: REU in Consumer Networking Technologies, University of Missouri-Columbia
+      - name: David Feil-Seifer
+        affil: REU Site: Collaborative Human-Robot Interaction for Robots in the Field, University of Nevada, Reno
+      - name: Naomi Fitter
+        affil: Robots in the Real World, Oregon State University
+      - name: Huirong Fu
+        affil: Oakland University
+      - name: William Gasarch
+        affil: REU-CAAR, University of Maryland at College Park
+      - name: Matthias Gobbert
+        affil: REU Site: Online Interdisciplinary Big Data Analytics in Science and Engineering, University of Maryland, Baltimore County
+      - name: Ganesh Gopalakrishnan
+        affil: Trust and Reproducibility Education for Undergraduates, University of Utah
+      - name: Selena He
+        affil: REU SITE: Non-Invasive Deep Brain-Computed Interfaces, Kennesaw State University
+      - name: Daqing Hou
+        affil: REU Site: Trustworthy AI, Rochester Institute of Technology
+      - name: Xunfei Jiang
+        affil: REU Site: Applying Data Science on Energy-efficient Cluster Systems and Applications, California State University, Northridge
+      - name: Ioannis Kakadiaris
+        affil: REU SITE: Undergraduate Research Experience in Frontiers in Data-Driven Computing, University of Houston
+      - name: Dulal Chandra Kar
+        affil: Applied Computing Research in Unmanned Aerial Systems, Texas A&M University-Corpus Christi
+      - name: Ryan Kastner
+        affil: Engineers for Exploration, UC San Diego
+      - name: Samee Khan
+        affil: iEDGE, UC San Diego
+      - name: Elizabeth Kleiman
+        affil: Computing for Health and Well-being, University of Iowa
+      - name: Raja Kushalnagar
+        affil: REU AICT, Gallaudet University
+      - name: Sanjay Madria
+        affil: Research and Training Experience for Undergraduates in the areas of Cybersecurity, Data analytics and Blockchain for Securing Big Data and Cyber-physical Systems, Missouri Institute of Science and Technology
+      - name: Younghee Park
+        affil: SJSU, San Jose State University
 

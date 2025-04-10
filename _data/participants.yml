@@ -61,4 +61,109 @@ groups:
       - name: André
         surname: Bauer
         affil: Illinois Institute of Technology
+      - name: Jean-François
+        surname: Biasse
+        affil: University of South Florida
+      - name: Kelsey
+        surname: Briggs
+        affil: Worcester Polytechnic Institute
+      - name: Prasad
+        surname: Calyam
+        affil: University of Missouri-Columbia
+      - name: Jia
+        surname: Chen
+        affil: University of California Riverside
+      - name: Chan-Jin CJ
+        surname: Chung
+        affil: Lawrence Technological University
+      - name: Gary
+        surname: Cottrell
+        affil: UCSD
+      - name: Lenore
+        surname: Cowen
+        affil: Tufts University
+      - name: Laura
+        surname: Dabbish
+        affil: Carnegie Mellon University
+      - name: Gaby
+        surname: Dagher
+        affil: Boise State University
+      - name: David
+        surname: Feil-Seifer
+        affil: University of Nevada, Reno
+      - name: Naomi
+        surname: Fitter
+        affil: Oregon State University
+      - name: Huirong
+        surname: Fu
+        affil: Oakland University
+      - name: Alesia
+        surname: Gainer
+        affil: University of Southern California
+      - name: Lazaros
+        surname: Gallos
+        affil: Rutgers University
+      - name: Charlie
+        surname: Garrod
+        affil: Carnegie Mellon University
+      - name: William
+        surname: Gasarch
+        affil: University of Maryland at College Park
+      - name: Kari
+        surname: George
+        affil: Computing Research Association
+      - name: Stephen
+        surname: Gilbert
+        affil: Iowa State University
+      - name: Matthias
+        affil: Gobbert
+        surname: University of Maryland, Baltimore County
+      - name: Ganesh
+        surname: Gopalakrishnan
+        affil: University of Utah
+      - name: Jason
+        surname: Gross
+        affil: West Virginia University
+      - name: Charan
+        surname: Gudia
+        affil: Mississippi State University
+      - name: Selena
+        surname: He
+        affil: Kennesaw State University
+      - name: Marnie
+        surname: Hill
+        affil: NC State University
+      - name: Daqing
+        surname: Hou
+        affil: Rochester Institute of Technology
+      - name: Rischelle
+        surname: Jenkins
+        affil: Vanderbilt University
+      - name: Xunfei
+        surname: Jiang
+        affil: California State University, Northridge
+      - name: Ioannis
+        surname: Kakadiaris 
+        affil: University of Houston
+      - name: Jugal
+        surname: Kalita
+        affil: University of Colorado, Colorado Springs
+      - name: Dulal Chandra
+        surname: Kar
+        affil: Texas AM University-Corpus Christi
+      - name: Ryan
+        surname: Kastner
+        affil: UC San Diego
+      - name: Samee
+        surname: Khan
+        affil: Mississippi State University
+      - name: Elizabeth
+        surname: Kleiman
+        affil: University of Iowa
+      - name: Raja
+        surname: Kushalnagar
+        affil: Gallaudet University
+      - name: Enyue (Annie)
+        surname: Lu
+        affil: Salisbury University
   

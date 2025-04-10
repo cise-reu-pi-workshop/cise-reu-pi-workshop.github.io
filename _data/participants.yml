@@ -22,4 +22,43 @@ groups:
         surname: Mudrinich
         email: smudrini@andrew.cmu.edu
         affil: Carnegie Mellon University
+  - title: Meeting participants
+    columns: false
+    members:
+      - name: Esra
+        surname: Akbas 
+        affil: Georgia State University
+      - name: Kemal
+        surname: Akkaya
+        affil: Florida International University
+      - name: Mehmet
+        surname: Aktas
+        affil: Kennesaw State University
+      - name: Mark V.
+        surname: Albert
+        affil: University of North Texas
+      - name: Ahmad
+        surname: Alsharif
+        affil: The University of Alabama
+      - name: Habib
+        surname: Ammari
+        affil: Texas AM International University
+      - name: Fathi
+        surname: Amsaad
+        affil: Wright State University
+      - name: Mohammad Rahman
+        surname: Ashiqur
+        affil: Florida International University
+      - name: Vikas
+        surname: Ashok
+        affil: Old Dominion University
+      - name: Sabur
+        surname: Baidya
+        affil: University of Louisville
+      - name: Leilani
+        surname: Battle
+        affil: University of Washington
+      - name: André
+        surname: Bauer
+        affil: Illinois Institute of Technology
   

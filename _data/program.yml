@@ -60,7 +60,7 @@ days:
         subtitle: same sessions as 10am, everyone chooses a second topic from the six offered
         category: Breakout sessions
       - time: 4:15pm to 5:00pm
-        title: Invited speaker
+        title: Panel 3&#58; Working with Mentors&#58; mentor training, mentor management, mentor evaluation
         category: Plenary sessions
       - time: 6:30pm to 8:30pm
         title: Networking & Best Practices Discussion Dinner
@@ -71,7 +71,7 @@ days:
         title: Breakfast
         category: Meals
       - time: 9:30am to 10:30am
-        title: Panel 3&#58; Evaluation, Reporting, Tracking, and Dissemination of Longitudinal REU Outcomes
+        title: Panel 4&#58; Evaluation, Reporting, Tracking, and Dissemination of Longitudinal REU Outcomes
         category: Plenary sessions
       - time: 10:30am to 11:00am
         title: Break
@@ -81,13 +81,13 @@ days:
         subtitle: same sessions as Day 2, everyone chooses a third topic from the six offered
         category: Breakout sessions
       - time: 11:45am to 12:30pm
-        title: Meet with your Program Officer in breakout sessions
-        category: Breakout sessions
+        title: Program Officer panel
+        category: Plenary sessions
       - time: 12:30pm to 1:45pm
         title: Lunch
         category: Meals
       - time: 1:45pm to 2:30pm
-        title: Panel 4&#58; Working with Mentors&#58; mentor training, mentor management, mentor evaluation
+        title: Invited Speaker
         category: Plenary sessions
       - time: 2:30pm to 2:45pm
         title: Closing remarks
